@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(thRFF9FDC1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 12ch;
+    color: rgba(255, 0, 0, 1);
+    text-align: center;
+}
+p{
+    font-size: 16px;
+    text-align: center;
+}
+
+.card{
+    background-color: rgba(255, 0, 0, 1);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 20px;
+}
